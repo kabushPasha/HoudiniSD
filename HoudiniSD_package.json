@@ -1,0 +1,8 @@
+{
+	"env": [
+        {
+            "HouSD_Path": "S:/Repositories/HoudiniSD"
+        }
+    ],
+    "hpath" : "$HouSD_Path/houdinisd"
+}
