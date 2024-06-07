@@ -1,0 +1,8 @@
+{
+	"env": [
+        {
+            "Pasha_HoudiniSD_Path": "S:/Repositories/HoudiniSD"
+        }
+    ]
+    "hpath" : "$Pasha_HoudiniSD_Path/houdinisd"
+}
