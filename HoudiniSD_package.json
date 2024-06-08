@@ -1,7 +1,7 @@
 {
 	"env": [
         {
-            "HouSD_Path": "S:/Repositories/HoudiniSD"
+            "HouSD_Path": "$HFS/packages/houdinisd"
         }
     ],
     "hpath" : "$HouSD_Path/houdinisd"
