@@ -1,5 +1,6 @@
 # Houdini SD
-SubstanceDesigner Nodes for Houdini 
+SubstanceDesigner Nodes for Houdini 20+
+
 Rewritten mostly in OpenCL and run over heightfiled volumes in SOP context.
 
 ![](https://github.com/kabushPasha/HoudiniSD/blob/main/SampleMaterials/Mats_001.jpg?raw=true)
